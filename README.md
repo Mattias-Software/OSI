@@ -11,4 +11,4 @@ OSI (Open Schematic Initiative) is a project that aims to provide schematics tha
 
 I am an hobbyist, I have no prior kownledge in EE. Thus, as much effort I put in this schematic and, although, I keep expanindg my kownledge, these schematics will never have the same quality as a schematic made by a professional, therefore these schematics are provieded ***AS IS***.
 
-***THESE SCHEMATICS ARE FOR MADE FOR EDUCATIONAL PURPOSE ONLY***
+***THESE SCHEMATICS ARE MADE FOR EDUCATIONAL PURPOSE ONLY***
